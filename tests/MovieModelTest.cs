@@ -1,4 +1,4 @@
-/* using NUnit.Framework;
+using NUnit.Framework;
 using Backend;
 
 namespace tests
@@ -38,4 +38,3 @@ namespace tests
         }
     }
 }
- */

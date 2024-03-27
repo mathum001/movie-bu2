@@ -1,4 +1,4 @@
-using Xunit;
+/* using Xunit;
 using Microsoft.EntityFrameworkCore;
 using Moq;
 using Backend;
@@ -39,11 +39,11 @@ namespace tests
                 var result = movieService.CreateMovie(title, description, id);
 
                 // Assert
-                Assert.NotNull(result);
-                Assert.Equal(title, result.Title);
-                Assert.Equal(description, result.Description);
-                Assert.False(result.Seen); // Assuming default value for Seen property is false
+                Xunit.Assert.NotNull(result);
+                Xunit.Assert.Equal(title, result.Title);
+                Xunit.Assert.Equal(description, result.Description);
+                Xunit.Assert.False(result.Seen); // Assuming default value for Seen property is false
             }
         }
     }
-}
+} */

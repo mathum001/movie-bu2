@@ -16,7 +16,10 @@
           "NUnit3TestAdapter": "4.2.1",
           "xunit": "2.7.0",
           "backend": "1.0.0",
-          "coverlet.collector": "6.0.0"
+          "coverlet.collector": "6.0.0",
+          "xunit.assert": "2.7.0",
+          "xunit.extensibility.core": "2.7.0",
+          "xunit.runner.visualstudio": "2.5.7"
         },
         "runtime": {
           "tests.dll": {}
@@ -631,6 +634,7 @@
           }
         }
       },
+      "xunit.runner.visualstudio/2.5.7": {},
       "backend/1.0.0": {
         "dependencies": {
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "8.0.3",
@@ -1006,6 +1010,13 @@
       "sha512": "sha512-bjY+crT1jOyxKagFjCMdEVzoenO2v66ru8+CK/0UaXvyG4U9Q3UTieJkbQXbi7/1yZIK1sGh01l5/jh2CwLJtQ==",
       "path": "xunit.extensibility.execution/2.7.0",
       "hashPath": "xunit.extensibility.execution.2.7.0.nupkg.sha512"
+    },
+    "xunit.runner.visualstudio/2.5.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-31Rl7dBJriX0DNwZfDp8gqFOPsiM0c9kqpcH/HvNi9vDp+K7Ydf42H7mVIvYT918Ywzn1ymLg1c4DDC6iU754w==",
+      "path": "xunit.runner.visualstudio/2.5.7",
+      "hashPath": "xunit.runner.visualstudio.2.5.7.nupkg.sha512"
     },
     "backend/1.0.0": {
       "type": "project",

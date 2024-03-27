@@ -129,3 +129,6 @@ C:\Users\Matsjö\Documents\GitHub\movie-bu2\tests\obj\Debug\net8.0\refint\tests.
 C:\Users\Matsjö\Documents\GitHub\movie-bu2\tests\obj\Debug\net8.0\tests.pdb
 C:\Users\Matsjö\Documents\GitHub\movie-bu2\tests\obj\Debug\net8.0\tests.genruntimeconfig.cache
 C:\Users\Matsjö\Documents\GitHub\movie-bu2\tests\obj\Debug\net8.0\ref\tests.dll
+C:\Users\Matsjö\Documents\GitHub\movie-bu2\tests\bin\Debug\net8.0\xunit.runner.visualstudio.testadapter.dll
+C:\Users\Matsjö\Documents\GitHub\movie-bu2\tests\bin\Debug\net8.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Matsjö\Documents\GitHub\movie-bu2\tests\bin\Debug\net8.0\xunit.runner.utility.netcoreapp10.dll

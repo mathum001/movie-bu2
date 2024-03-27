@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "l9vM3Ap7HmQIR9oN6naO8U2asHHaiNl37P9aHK4LmljlBEqHZXTPGisCPDRmyr7LHJKHERlyxQNCQ8vKqv0nEQ==",
+  "dgSpecHash": "OUCrMf0/twi9oDBMmM9XZK0bQ+oeiwpYXf295X0vLlTo0Fir1Gtv3hVqeuYmHG3Uksps9Bl1OqobAyWd9CTIHg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Matsjö\\Documents\\GitHub\\movie-bu2\\tests\\tests.csproj",
   "expectedPackageFiles": [
@@ -54,7 +54,8 @@
     "C:\\Users\\Matsjö\\.nuget\\packages\\xunit.assert\\2.7.0\\xunit.assert.2.7.0.nupkg.sha512",
     "C:\\Users\\Matsjö\\.nuget\\packages\\xunit.core\\2.7.0\\xunit.core.2.7.0.nupkg.sha512",
     "C:\\Users\\Matsjö\\.nuget\\packages\\xunit.extensibility.core\\2.7.0\\xunit.extensibility.core.2.7.0.nupkg.sha512",
-    "C:\\Users\\Matsjö\\.nuget\\packages\\xunit.extensibility.execution\\2.7.0\\xunit.extensibility.execution.2.7.0.nupkg.sha512"
+    "C:\\Users\\Matsjö\\.nuget\\packages\\xunit.extensibility.execution\\2.7.0\\xunit.extensibility.execution.2.7.0.nupkg.sha512",
+    "C:\\Users\\Matsjö\\.nuget\\packages\\xunit.runner.visualstudio\\2.5.7\\xunit.runner.visualstudio.2.5.7.nupkg.sha512"
   ],
   "logs": []
 }
