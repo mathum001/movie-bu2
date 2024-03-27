@@ -2,7 +2,7 @@ using System.Data;
 using System.Security.Claims;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
-namespace Movie;
+namespace Backend;
 
 public class CreateMovieDto
 {

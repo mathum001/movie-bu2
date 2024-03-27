@@ -1,7 +1,7 @@
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
-namespace Movie;
+namespace Backend;
 
 public class ApplicationContext : IdentityDbContext<User>
 {

@@ -22,7 +22,7 @@ function LoginView({ setView }) {
   const [registerPassword, setRegisterPassword] = useState("");
 
   const login = () => {
-    fetch("http://localhost:5282/login", {
+    fetch("http://localhost:5113/login", {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
@@ -40,7 +40,7 @@ function LoginView({ setView }) {
   };
 
   const register = () => {
-    fetch("http://localhost:5282/register", {
+    fetch("http://localhost:5113/register", {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
@@ -116,7 +116,7 @@ function LoggedInView({ setView }) {
   const [deleteMovie, setDeleteMovie] = useState("");
 
   useEffect(() => {
-    fetch("http://localhost:5282/api/movie/movies", {
+    fetch("http://localhost:5113/api/movie/movies", {
       method: "GET",
       headers: {
         "Content-Type": "application/json",
@@ -128,7 +128,7 @@ function LoggedInView({ setView }) {
   }, []);
 
   const createMovie = () => {
-    fetch("http://localhost:5282/api/movie", {
+    fetch("http://localhost:5113/api/movie", {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
@@ -157,7 +157,7 @@ function LoggedInView({ setView }) {
   };
 
   const removeMovie = () => {
-    fetch("http://localhost:5282/api/movie/movie/" + movieName, {
+    fetch("http://localhost:5113/api/movie/movie/" + movieName, {
       method: "DELETE",
       headers: {
         "Content-Type": "application/json",
@@ -181,7 +181,7 @@ function LoggedInView({ setView }) {
 
   const changeMovie = (updateMovie, newSeenStatus) => {
     fetch(
-      `http://localhost:5282/api/movie/movie/${updateMovie}?completed=${newSeenStatus}`,
+      `http://localhost:5113/api/movie/movie/${updateMovie}?completed=${newSeenStatus}`,
       {
         method: "PUT",
         headers: {

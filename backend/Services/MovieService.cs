@@ -1,6 +1,6 @@
 using System.Data;
 
-namespace Movie;
+namespace Backend;
 
 public class MovieService
 {

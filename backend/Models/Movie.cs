@@ -1,4 +1,4 @@
-namespace Movie;
+namespace Backend;
 
 public class Movie
 {

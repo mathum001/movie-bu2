@@ -1,7 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
-namespace Movie;
+namespace Backend;
 
 public class UserDbContext : DbContext
 {
