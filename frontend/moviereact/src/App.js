@@ -157,7 +157,10 @@ function LoggedInView({ setView }) {
   };
 
   const removeMovie = () => {
-    fetch("http://localhost:5113/api/movie/movie/" + movieName, {
+    if (!deleteMovie) {
+      console.error("Movie MoviedeleteMovie is not found");
+    }
+    fetch("http://localhost:5113/api/movie/movie/" + deleteMovie, {
       method: "DELETE",
       headers: {
         "Content-Type": "application/json",
@@ -171,7 +174,7 @@ function LoggedInView({ setView }) {
           alert("You must enter a proper title and description.");
         } else {
           // Ta bort filmen från listan när borttagningen är lyckad
-          setMovies(movies.filter((movie) => movie.title !== movieName));
+          setMovies(movies.filter((movie) => movie.title !== deleteMovie));
         }
       })
       .catch((err) => {
