@@ -1,26 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\marcu\\Documents\\GitHub\\movie-bu2\\backend\\backend.csproj": {}
+    "C:\\Users\\Matsjö\\Documents\\GitHub\\movie-bu2\\backend\\backend.csproj": {}
   },
   "projects": {
-    "C:\\Users\\marcu\\Documents\\GitHub\\movie-bu2\\backend\\backend.csproj": {
+    "C:\\Users\\Matsjö\\Documents\\GitHub\\movie-bu2\\backend\\backend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marcu\\Documents\\GitHub\\movie-bu2\\backend\\backend.csproj",
+        "projectUniqueName": "C:\\Users\\Matsjö\\Documents\\GitHub\\movie-bu2\\backend\\backend.csproj",
         "projectName": "backend",
-        "projectPath": "C:\\Users\\marcu\\Documents\\GitHub\\movie-bu2\\backend\\backend.csproj",
-        "packagesPath": "C:\\Users\\marcu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\marcu\\Documents\\GitHub\\movie-bu2\\backend\\obj\\",
+        "projectPath": "C:\\Users\\Matsjö\\Documents\\GitHub\\movie-bu2\\backend\\backend.csproj",
+        "packagesPath": "C:\\Users\\Matsjö\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Matsjö\\Documents\\GitHub\\movie-bu2\\backend\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\marcu\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Matsjö\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "https://api.nuget.org/v3/index.json": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://www.nuget.org/api/v2/": {}
         },
         "frameworks": {
           "net8.0": {

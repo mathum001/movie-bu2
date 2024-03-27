@@ -1,0 +1,14 @@
+C:\Users\Matsjö\Documents\GitHub\movie-bu2\Movie.Tests\bin\Debug\net8.0\CoverletSourceRootsMapping_Movie.Tests
+C:\Users\Matsjö\Documents\GitHub\movie-bu2\Movie.Tests\obj\Debug\net8.0\Movie.Tests.csproj.AssemblyReference.cache
+C:\Users\Matsjö\Documents\GitHub\movie-bu2\Movie.Tests\obj\Debug\net8.0\Movie.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matsjö\Documents\GitHub\movie-bu2\Movie.Tests\obj\Debug\net8.0\Movie.Tests.AssemblyInfoInputs.cache
+C:\Users\Matsjö\Documents\GitHub\movie-bu2\Movie.Tests\obj\Debug\net8.0\Movie.Tests.AssemblyInfo.cs
+C:\Users\Matsjö\Documents\GitHub\movie-bu2\Movie.Tests\obj\Debug\net8.0\Movie.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Matsjö\Documents\GitHub\movie-bu2\Movie.Tests\obj\Debug\net8.0\Movie.Tests.sourcelink.json
+C:\Users\Matsjö\Documents\GitHub\movie-bu2\tests\bin\Debug\net8.0\CoverletSourceRootsMapping_Movie.Tests
+C:\Users\Matsjö\Documents\GitHub\movie-bu2\tests\obj\Debug\net8.0\Movie.Tests.csproj.AssemblyReference.cache
+C:\Users\Matsjö\Documents\GitHub\movie-bu2\tests\obj\Debug\net8.0\Movie.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matsjö\Documents\GitHub\movie-bu2\tests\obj\Debug\net8.0\Movie.Tests.AssemblyInfoInputs.cache
+C:\Users\Matsjö\Documents\GitHub\movie-bu2\tests\obj\Debug\net8.0\Movie.Tests.AssemblyInfo.cs
+C:\Users\Matsjö\Documents\GitHub\movie-bu2\tests\obj\Debug\net8.0\Movie.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Matsjö\Documents\GitHub\movie-bu2\tests\obj\Debug\net8.0\Movie.Tests.sourcelink.json
